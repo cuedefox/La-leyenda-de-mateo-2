@@ -1,4 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889}
+{"id":1,"expanded":false,"name":"Salta","order":1,"parentId":0,"scrollX":534,"scrollY":470.5},
+{"id":2,"expanded":false,"name":"Casa mateo","order":3,"parentId":3,"scrollX":465.6,"scrollY":487.6},
+{"id":3,"expanded":false,"name":"Casa Mateo Exterior","order":2,"parentId":1,"scrollX":712,"scrollY":396.6666666666667},
+{"id":4,"expanded":false,"name":"Salta mapa","order":4,"parentId":1,"scrollX":712,"scrollY":396.6666666666667},
+{"id":5,"expanded":false,"name":"Zona final","order":5,"parentId":1,"scrollX":810,"scrollY":422.5},
+{"id":6,"expanded":false,"name":"Villa Idalgoh","order":6,"parentId":0,"scrollX":1165.0909090909092,"scrollY":666.5454545454546}
 ]
