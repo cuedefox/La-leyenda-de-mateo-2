@@ -1,9 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Salta","order":1,"parentId":0,"scrollX":534,"scrollY":470.5},
-{"id":2,"expanded":false,"name":"Casa mateo","order":3,"parentId":3,"scrollX":465.6,"scrollY":487.6},
-{"id":3,"expanded":false,"name":"Casa Mateo Exterior","order":2,"parentId":1,"scrollX":712,"scrollY":396.6666666666667},
-{"id":4,"expanded":false,"name":"Salta mapa","order":4,"parentId":1,"scrollX":712,"scrollY":396.6666666666667},
-{"id":5,"expanded":false,"name":"Zona final","order":5,"parentId":1,"scrollX":810,"scrollY":422.5},
-{"id":6,"expanded":false,"name":"Villa Idalgoh","order":6,"parentId":0,"scrollX":1165.0909090909092,"scrollY":666.5454545454546}
+{"id":1,"expanded":true,"name":"Salta","order":1,"parentId":0,"scrollX":640.3636363636364,"scrollY":443.4545454545455},
+{"id":2,"expanded":false,"name":"Casa mateo","order":3,"parentId":3,"scrollX":582.5454545454546,"scrollY":408.54545454545456},
+{"id":3,"expanded":false,"name":"Casa Mateo Exterior","order":2,"parentId":1,"scrollX":761.4545454545455,"scrollY":386.72727272727275},
+{"id":4,"expanded":false,"name":"Salta mapa","order":4,"parentId":1,"scrollX":1107.2727272727273,"scrollY":732.5454545454546},
+{"id":5,"expanded":false,"name":"Zona final","order":5,"parentId":1,"scrollX":915.4285714285713,"scrollY":509.99999999999994},
+{"id":6,"expanded":true,"name":"Villa Idalgoh","order":6,"parentId":0,"scrollX":712,"scrollY":396.6666666666667},
+{"id":7,"expanded":false,"name":"Casa de Juli","order":7,"parentId":6,"scrollX":582.5454545454546,"scrollY":324.54545454545456}
 ]
