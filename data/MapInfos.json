@@ -17,5 +17,11 @@ null,
 {"id":15,"expanded":false,"name":"Pasillo de la escuela","order":12,"parentId":12,"scrollX":1210.6666666666667,"scrollY":407.3333333333333},
 {"id":16,"expanded":false,"name":"Despacho del director","order":16,"parentId":15,"scrollX":712,"scrollY":407.3333333333333},
 {"id":17,"expanded":false,"name":"Chile","order":17,"parentId":0,"scrollX":915.4285714285713,"scrollY":1876.2857142857142},
-{"id":18,"expanded":false,"name":"Mar Boliviano","order":18,"parentId":0,"scrollX":915.4285714285713,"scrollY":523.7142857142857}
+{"id":18,"expanded":false,"name":"Mar Boliviano","order":18,"parentId":0,"scrollX":915.4285714285713,"scrollY":523.7142857142857},
+{"id":19,"expanded":false,"name":"Habitacion Barco 1","order":19,"parentId":18,"scrollX":0,"scrollY":0},
+{"id":20,"expanded":true,"name":"Habitacion Barco 2","order":20,"parentId":18,"scrollX":0,"scrollY":0},
+{"id":21,"expanded":false,"name":"Habitacion Barco 3","order":21,"parentId":18,"scrollX":0,"scrollY":0},
+{"id":22,"expanded":false,"name":"Habitacion Barco 4","order":22,"parentId":18,"scrollX":0,"scrollY":0},
+{"id":23,"expanded":false,"name":"Habitacion Barco 5","order":23,"parentId":18,"scrollX":0,"scrollY":0},
+{"id":24,"expanded":false,"name":"Habitacion Barco 6","order":24,"parentId":18,"scrollX":0,"scrollY":0}
 ]
