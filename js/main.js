@@ -147,6 +147,9 @@ class Main {
 
     onEffekseerLoad() {
         this.eraseLoadingSpinner();
+        PIXI.settings.RENDER_OPTIONS["height"] = 720;
+        PIXI.settings.RENDER_OPTIONS["width"] = 1280;
+        PIXI.settings.PRECISION_FRAGMENT = PIXI.PRECISION.HIGH;
         SceneManager.run(Scene_Boot);
     }
 
